@@ -18,6 +18,10 @@ _______________________________________
 - 4.- Descargar cambios del respositorio remoto o en la nube (Github)
 'git pull'
 
+
+-5 estos son mi cambios 
+
+
 ## …or create a new repository on the command line
 
 ```
