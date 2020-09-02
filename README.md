@@ -14,7 +14,9 @@ Para aprender Git
 - 3.- Subir los cambios a GITHUB
 `git push -u origin master`
 
-
+_______________________________________
+- 4.- Descargar cambios del respositorio remoto o en la nube (Github)
+'git pull'
 
 ## …or create a new repository on the command line
 
